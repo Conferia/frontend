@@ -90,8 +90,8 @@ onMounted(async () => {
 
 <style scoped>
 #logo-large {
-  height: 50px;
-  width: 100%;
+  /* height: 50px; */
+  width: 250px;
   margin-bottom: 10px;
 }
 </style>
